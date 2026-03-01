@@ -1,4 +1,4 @@
-# 2310213010 – Mustafa Saktaş
+# Mustafa Saktaş
 
 ## Data Structures Assignments (C)
 
