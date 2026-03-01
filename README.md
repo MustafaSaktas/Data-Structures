@@ -36,8 +36,7 @@ developed as part of the Data Structures course.
 ## Student Information
 
 - **Name:** Mustafa Saktaş  
-- **Student ID:** 2310213010  
-
+ 
 ---
 
-All implementations are written in pure C language and are intended for educational purposes.
+All implementations are written in C language and are intended for educational purposes.
